@@ -1,0 +1,10 @@
+@Dex_Filter_HostAddress = https://localhost:7104
+
+GET {{Dex_Filter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Dex_Filter_HostAddress}}/api/tokenconntroller
+
+###

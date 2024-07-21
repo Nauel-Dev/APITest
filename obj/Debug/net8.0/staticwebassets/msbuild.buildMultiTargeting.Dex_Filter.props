@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dex_Filter.props" />
+</Project>
