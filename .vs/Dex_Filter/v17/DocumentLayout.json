@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -113,6 +113,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20240714195109_Initiallll.cs",
@@ -120,7 +124,7 @@
               "RelativeDocumentMoniker": "Migrations\\20240714195109_Initiallll.cs",
               "ToolTip": "C:\\Users\\night\\source\\repos\\Dex_Filter\\Migrations\\20240714195109_Initiallll.cs",
               "RelativeToolTip": "Migrations\\20240714195109_Initiallll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwB0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T19:51:10.146Z",
               "EditorCaption": ""
@@ -208,6 +212,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-07-13T11:11:59.607Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",

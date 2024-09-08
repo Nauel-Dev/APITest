@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dex_Filter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7604be475967a5b62b46ea39c6b00d34173007ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dex_Filter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dex_Filter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
